@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Launch a basic Amazon EC2 instance with a security group.
+Description: Launch a basic Amazon EC2 instance with a security group
 
 Parameters:
   InstanceType:
